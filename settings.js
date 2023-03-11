@@ -1,12 +1,6 @@
 /*
 ===================================================================================================
-💃 𝗤𝘂𝗲𝗲𝗻 𝗡𝗶𝗹𝘂 𝗕𝗼𝘁 𝗠𝗱 💃
-   ____                           _   _ _ _       
-  / __ \                         | \ | (_) |      
- | |  | |_   _  ___  ___ _ __    |  \| |_| |_   _ 
- | |  | | | | |/ _ \/ _ \ '_ \   | . ` | | | | | |
- | |__| | |_| |  __/  __/ | | |  | |\  | | | |_| |
-  \___\_\\__,_|\___|\___|_| |_|  |_| \_|_|_|\__,_|
+💃 ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ 𝗕𝗼𝘁 𝗠𝗱 💃
                                                   
                                                   BY Janiya
 ===================================================================================================
@@ -22,9 +16,9 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['94763867158'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝙱𝙳𝙷𝚄𝙻 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
@@ -34,13 +28,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  '𝙰𝙱𝙳𝙷𝚄𝙻 𝙱𝙾𝚃' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  '𝙰𝙱𝙳𝙷𝚄𝙻 𝚁𝙰𝙷𝙼𝙰𝙽' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  '𝙰𝙱𝙳𝙷𝚄𝙻 𝙼𝙳' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  '_𝙰𝙱𝙳𝙷𝚄𝙻_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -55,7 +49,7 @@ global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
 global.BUTTON1_URL = 'https://github.com/janithsadanuwan/'
 //👇 Button 2 url
-global.BUTTON2_URL = 'https://youtube.com/c/Janithsadanuwan'
+global.BUTTON2_URL = 'https:https://youtube.com/channel/UCxqpAzaAecDfYOPywxUJoyw'
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
